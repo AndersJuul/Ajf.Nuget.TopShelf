@@ -14,6 +14,7 @@ namespace Ajf.Nuget.TopShelf.Tests
             //var httpStatusCode = mailSender.SendMailAsync("andersjuulsfirma@gmail.com", "andersjuulsfirma@gmail.com",
             //    "andersjuulsfirma@gmail.com", "TestEmail: Subject", "<html><html>", new string[] {"dummy.txt" }).Result;
 
+
             //Assert.AreEqual(HttpStatusCode.Accepted, httpStatusCode);
         }
     }
