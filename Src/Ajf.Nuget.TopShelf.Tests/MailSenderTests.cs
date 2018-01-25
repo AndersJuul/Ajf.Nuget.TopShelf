@@ -1,8 +1,6 @@
-﻿using System.IO;
-using System.Net;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
-namespace Ajf.Nuget.Logging.Tests
+namespace Ajf.Nuget.TopShelf.Tests
 {
     [TestFixture]
     public class MailSenderTests
